@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamination", "OnlineExamination\OnlineExamination.csproj", "{35765690-E095-4796-9E56-679A0CCB0632}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamination.BL", "OnlineExamination.BL\OnlineExamination.BL.csproj", "{2D745167-0366-4860-B8E5-59A0C09016EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamination.DL", "OnlineExamination.DL\OnlineExamination.DL.csproj", "{DA081D29-F40A-4188-B4E4-5EB0074DE662}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{35765690-E095-4796-9E56-679A0CCB0632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35765690-E095-4796-9E56-679A0CCB0632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35765690-E095-4796-9E56-679A0CCB0632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D745167-0366-4860-B8E5-59A0C09016EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D745167-0366-4860-B8E5-59A0C09016EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D745167-0366-4860-B8E5-59A0C09016EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D745167-0366-4860-B8E5-59A0C09016EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA081D29-F40A-4188-B4E4-5EB0074DE662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA081D29-F40A-4188-B4E4-5EB0074DE662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA081D29-F40A-4188-B4E4-5EB0074DE662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA081D29-F40A-4188-B4E4-5EB0074DE662}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

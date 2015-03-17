@@ -9,3 +9,15 @@ F:\Samples\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.pdb
 F:\Samples\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.Register.resources
 F:\Samples\OnlineExamination\OnlineExamination\bin\Debug\Validator.dll
 F:\Samples\OnlineExamination\OnlineExamination\bin\Debug\Validator.pdb
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.Properties.Resources.resources
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.UserRegisteration.resources
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.csproj.GenerateResource.Cache
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\bin\Debug\OnlineExamination.exe.config
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\bin\Debug\OnlineExamination.exe
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\bin\Debug\OnlineExamination.pdb
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\bin\Debug\Validator.dll
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\bin\Debug\Validator.pdb
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.exe
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.pdb
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.csprojResolveAssemblyReference.cache
+F:\Samples\GIT Sample\OnlineExamination\OnlineExamination\obj\Debug\OnlineExamination.ExamQuestion.resources
