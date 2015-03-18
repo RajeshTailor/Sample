@@ -39,7 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnswerBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserAnswers.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineExamination.DL\OnlineExamination.DL.csproj">
+      <Project>{da081d29-f40a-4188-b4e4-5eb0074de662}</Project>
+      <Name>OnlineExamination.DL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

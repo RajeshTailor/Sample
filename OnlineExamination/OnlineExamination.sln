@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamination", "OnlineExamination\OnlineExamination.csproj", "{35765690-E095-4796-9E56-679A0CCB0632}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamination.BL", "OnlineExamination.BL\OnlineExamination.BL.csproj", "{2D745167-0366-4860-B8E5-59A0C09016EB}"

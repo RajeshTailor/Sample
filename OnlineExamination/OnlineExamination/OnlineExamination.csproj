@@ -47,6 +47,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\ApplicationLookAndFeel.cs" />
     <Compile Include="ExamQuestion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +93,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Images\bannerOnlineExam1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineExamination.BL\OnlineExamination.BL.csproj">
+      <Project>{2d745167-0366-4860-b8e5-59a0c09016eb}</Project>
+      <Name>OnlineExamination.BL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
